@@ -2,8 +2,7 @@
 
 <!--
 **IshaniSJM/IshaniSJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Nothing
 - 🌱 I’m currently learning Nothing
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Don't
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like onions
--->
