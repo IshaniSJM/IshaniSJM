@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on Nothing
 - 🤔 I’m looking for help with Nothing
 - 💬 Ask me about Nothing
-- 📫 How to reach me: Don't
+- 📫 How to reach me: Email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like onions
